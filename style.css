@@ -3,5 +3,37 @@
 }
 .info{color: blueviolet;
 }
-#aboutme {background-color: black;}
-#lorem {background-color: darkmagenta;}
+#one {
+    color: purple;
+}
+#two {
+    color: brown;
+}
+#three {
+    color: yellow;
+}
+#four {
+    background-color: blue;
+}
+#five {
+    background-color: green;
+}
+#six {
+    background-color: red;
+}
+#seven {color: aqua;}
+#eight {
+    color: darkcyan;
+}
+#nine {
+    color: darkseagreen;
+}
+#ten {
+    color: black;
+}
+#eleven {
+    color: fuchsia;
+}
+#twelve {
+    color: white;
+}
