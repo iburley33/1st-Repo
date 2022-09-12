@@ -1,6 +1,7 @@
 #aboutme {
     color: chocolate;
 }
-.info{color: blueviolet;}
-#paragraph2{color: darkred;}
-#paragraph3{color: goldenrod;}
+.info{color: blueviolet;
+}
+#aboutme {background-color: black;}
+#lorem {background-color: darkmagenta;}
